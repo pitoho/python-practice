@@ -1,0 +1,30 @@
+{
+  "animals": [
+    {
+        "species": "Tiger",
+        "habitat": "Jungle",
+        "average_lifespan": 15
+    },
+    {
+        "species": "Penguin",
+        "habitat": "Antarctica",
+        "average_lifespan": 20
+    },
+    {
+        "species": "Elephant",
+        "habitat": "Savannah",
+        "average_lifespan": 60
+    },
+    {
+        "species": "Hippopotamus",
+        "habitat": "Savannah",
+        "average_lifespan": 45
+    },
+    {
+        "species": "Crocodile",
+        "habitat": "Egypt",
+        "average_lifespan": 60
+    }
+  ]
+  }
+
