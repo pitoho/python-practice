@@ -1,30 +1,102 @@
 {
   "animals": [
     {
-        "species": "Tiger",
-        "habitat": "Jungle",
-        "average_lifespan": 15
+      "id": 1,
+      "species": "Tiger",
+      "habitat": "Jungle",
+      "average_lifespan": 15
     },
     {
-        "species": "Penguin",
-        "habitat": "Antarctica",
-        "average_lifespan": 20
+      "id": 2,
+      "species": "Penguin",
+      "habitat": "Antarctica",
+      "average_lifespan": 20
     },
     {
-        "species": "Elephant",
-        "habitat": "Savannah",
-        "average_lifespan": 60
+      "id": "3",
+      "species": "Elephant",
+      "habitat": "Savannah",
+      "average_lifespan": "60"
+    }
+  ],
+  "lizards": [
+    {
+      "id": 1,
+      "species": "Gecko",
+      "habitat": "Tropical Rainforest",
+      "average_lifespan": 5
     },
     {
-        "species": "Hippopotamus",
-        "habitat": "Savannah",
-        "average_lifespan": 45
+      "id": 2,
+      "species": "Iguana",
+      "habitat": "Grasslands",
+      "average_lifespan": 20
     },
     {
-        "species": "Crocodile",
-        "habitat": "Egypt",
-        "average_lifespan": 60
+      "id": 3,
+      "species": "Chameleon",
+      "habitat": "Forest",
+      "average_lifespan": 10
+    }
+  ],
+  "birds": [
+    {
+      "id": 1,
+      "species": "Eagle",
+      "habitat": "Mountains",
+      "average_lifespan": 25
+    },
+    {
+      "id": 2,
+      "species": "Parrot",
+      "habitat": "Tropical Forest",
+      "average_lifespan": 30
+    },
+    {
+      "id": 3,
+      "species": "Ostrich",
+      "habitat": "Grasslands",
+      "average_lifespan": 40
+    }
+  ],
+  "fish": [
+    {
+      "id": 1,
+      "species": "Salmon",
+      "habitat": "Freshwater",
+      "average_lifespan": 5
+    },
+    {
+      "id": 2,
+      "species": "Clownfish",
+      "habitat": "Reef",
+      "average_lifespan": 8
+    },
+    {
+      "id": 3,
+      "species": "Shark",
+      "habitat": "Ocean",
+      "average_lifespan": 20
+    }
+  ],
+  "horses": [
+    {
+      "id": 1,
+      "species": "Thoroughbred",
+      "habitat": "Grasslands",
+      "average_lifespan": 25
+    },
+    {
+      "id": 2,
+      "species": "Arabian",
+      "habitat": "Desert",
+      "average_lifespan": 30
+    },
+    {
+      "id": 3,
+      "species": "Friesian",
+      "habitat": "Fields",
+      "average_lifespan": 20
     }
   ]
-  }
-
+}
